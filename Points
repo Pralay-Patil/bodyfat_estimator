@@ -1,0 +1,6 @@
+Developed a machine learning model using scikit-learn to predict body fat percentage using anthropometric measurements, demonstrating practical application of ML algorithms in healthcare analytics
+Built and deployed a Flask web application that provides real-time body fat predictions based on user inputs including density, abdomen, chest, weight, and hip measurements
+Implemented model persistence using Python's pickle library to efficiently load and serve the trained random forest model in a production environment
+Created an intuitive web interface using HTML templates and Flask's routing system to handle both GET and POST requests, ensuring seamless user interaction
+Worked with a comprehensive health dataset containing 15 different anthropometric measurements, showcasing ability to handle and process complex medical data
+Demonstrated proficiency in key technologies and frameworks including Python, Flask, scikit-learn, and web development using HTML/templates
